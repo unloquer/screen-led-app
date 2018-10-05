@@ -3,10 +3,8 @@
 #define NUM_LEDS 64
 #define DATA_PIN D6
 
-const char* ssid = "C3P";
-const char* password = "trespatios";
-//const char* ssid = "UNE_6EB4";
-//const char* password = "9857312100";
+const char* ssid = "mired";
+const char* password = "miclave";
 CRGB leds[NUM_LEDS];
 
 AsyncWebServer server(80);
