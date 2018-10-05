@@ -1,0 +1,11 @@
+.pioenvs/*
+.piolibdeps/*
+
+
+*.old
+*.ino
+tags
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
